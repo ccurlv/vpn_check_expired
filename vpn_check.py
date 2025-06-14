@@ -9,6 +9,7 @@ import logging
 from OpenSSL import crypto as c
 from email.MIMEText import MIMEText as mt
 
+# a
 mailname = "VPN Checker"
 mailsrv = "10.10.10.10"
 mailsrvport = 25
